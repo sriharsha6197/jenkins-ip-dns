@@ -1,5 +1,5 @@
-pipeline{
-    agent{ label 'workstation}
+pipeline {
+    agent { label 'workstation'}
 
     stages{
         stage('Jenkins_IP_CHANGE'){
