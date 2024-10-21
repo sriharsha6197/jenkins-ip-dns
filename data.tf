@@ -4,5 +4,5 @@ data "aws_route53_zone" "selected" {
 }
 
 data "aws_instance" "foo" {
-  instance_id = "i-00bdf66f9d3538c2d"
+  instance_id = "i-0541577bd7534fd03"
 }
